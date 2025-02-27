@@ -1,0 +1,4 @@
+Audio_venv/
+__pycache__/
+output/
+*.mp3
