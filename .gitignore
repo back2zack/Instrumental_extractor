@@ -2,3 +2,6 @@ Audio_venv/
 __pycache__/
 output/
 *.mp3
+*.wav
+separated/
+test_data/

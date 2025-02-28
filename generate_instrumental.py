@@ -88,5 +88,5 @@ def main():
     print(f"🎵 Done! Your instrumental is at: {instrumental_path}")
 
 if __name__ == "__main__":
-    sys.argv = ["script_name.py", "Courir.mp3", "output_audio.mp3"]
+    sys.argv = ["script_name.py", "2Sba3.mp3", "output_audio.mp3"]
     main()
